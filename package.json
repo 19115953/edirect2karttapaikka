@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.17.2",
     "proj4": "^2.7.5"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
